@@ -1,0 +1,773 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN" class="loading">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>豆汁儿工作室公告栏 - 编程猫小站</title>
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="google" content="notranslate" />
+    <meta name="keywords" content="lengku 个人博客 技术文章 冷库 吹神求杀 WZR,"> 
+    <meta name="description" content="Accord,豆汁儿工作室公告
+      
+每月工资
+
+博客
+论坛
+网站
+
+十二月份
+
+
+
+
+  
+    
+      成员数量
+      投稿作品总数
+      成员总工资
+    
+  
+  
+   ,"> 
+    <meta name="author" content="吹神求杀"> 
+    <link rel="alternative" href="atom.xml" title="编程猫小站" type="application/atom+xml"> 
+    <link rel="icon" href="/img/favicon.png"> 
+    <link href="https://fonts.loli.net/css?family=Roboto+Mono|Rubik&display=swap" rel="stylesheet">
+    
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1429596_nzgqgvnmkjb.css">
+
+    
+<link rel="stylesheet" href="//cdn.bootcss.com/animate.css/3.7.2/animate.min.css">
+
+    
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/social-share.js/1.0.16/css/share.min.css">
+
+    
+<link rel="stylesheet" href="//cdn.bootcss.com/codemirror/5.48.4/codemirror.min.css">
+
+    
+<link rel="stylesheet" href="//cdn.bootcss.com/codemirror/5.48.4/theme/dracula.css">
+
+    
+<link rel="stylesheet" href="/css/obsidian.css">
+
+    
+<link rel="stylesheet" href="/css/ball-atom.min.css">
+
+<meta name="generator" content="Hexo 4.2.0"></head>
+
+
+<body class="loading">
+    <div class="loader">
+        <div class="la-ball-atom la-2x">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
+    <span id="config-title" style="display:none">编程猫小站</span>
+    <div id="loader"></div>
+    <div id="single">
+    <div class="scrollbar gradient-bg-rev"></div>
+<div id="top" style="display: block;">
+    <div class="bar" style="width: 0;"></div>
+    <div class="navigation animated fadeIn fast delay-1s">
+        <img id="home-icon" class="icon-home" src="/img/favicon.png" alt="" data-url="https://bcm.lengku.cf">
+        <div id="play-icon" title="Play/Pause" class="iconfont icon-play"></div>
+        <h3 class="subtitle">豆汁儿工作室公告栏</h3>
+        <div class="social">
+            <!--        <div class="like-icon">-->
+            <!--            <a href="javascript:;" class="likeThis active"><span class="icon-like"></span><span class="count">76</span></a>-->
+            <!--        </div>-->
+            <div>
+                <div class="share">
+                    
+                        <a href="javascript:;" class="iconfont icon-share1"></a>
+                        <div class="share-component-cc" data-disabled=""></div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div class="section">
+        <div class=article-header-wrapper>
+    <div class="article-header">
+        <div class="article-cover animated fadeIn" style="
+            animation-delay: 600ms;
+            animation-duration: 1.2s;
+            background-image: 
+                radial-gradient(ellipse closest-side, rgba(0, 0, 0, 0.65), #100e17),
+                url(/img/cover.jpg);">
+        </div>
+        <div class="else">
+            <p class="animated fadeInDown">
+                
+                <a href="javascript:;"><b>「 </b>文章<b> 」</b></a>
+                
+                一月 04, 2020
+            </p>
+            <h3 class="post-title animated fadeInDown"><a href="/2020/01/04/%E8%B1%86%E6%B1%81%E5%84%BF%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%85%AC%E5%91%8A" title="豆汁儿工作室公告栏" class="">豆汁儿工作室公告栏</a>
+            </h3>
+            
+            <p class="post-count animated fadeInDown">
+                
+                <span>
+                    <b class="iconfont icon-text2"></b> <i>文章字数</i>
+                    5.8k
+                </span>
+                
+                
+                <span>
+                    <b class="iconfont icon-timer__s"></b> <i>阅读约需</i>
+                    5 mins.
+                </span>
+                
+                
+                <span id="/2020/01/04/豆汁儿工作室公告" class="leancloud_visitors" data-flag-title="豆汁儿工作室公告栏">
+                    <b class="iconfont icon-read"></b> <i>阅读次数</i>
+                    <span class="leancloud-visitors-count">1000000</span>
+                </span>
+                
+                
+            </p>
+            
+            
+            <ul class="animated fadeInDown post-tags-list" itemprop="keywords"><li class="animated fadeInDown post-tags-list-item"><a class="animated fadeInDown post-tags-list-link" href="/tags/Python/" rel="tag">Python</a></li><li class="animated fadeInDown post-tags-list-item"><a class="animated fadeInDown post-tags-list-link" href="/tags/%E4%BD%9C%E8%80%85%E4%BD%9C%E5%93%81%E5%BD%95/" rel="tag">作者作品录</a></li></ul>
+            
+        </div>
+    </div>
+</div>
+
+<div class="screen-gradient-after">
+    <div class="screen-gradient-content">
+        <div class="screen-gradient-content-inside">
+            <div class="bold-underline-links screen-gradient-sponsor">
+                <p>
+                    <span class="animated fadeIn delay-1s"></span>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="article">
+    <div class='main'>
+        <div class="content markdown animated fadeIn">
+            <h1 id="豆汁儿工作室公告"><a href="#豆汁儿工作室公告" class="headerlink" title="豆汁儿工作室公告"></a>豆汁儿工作室公告</h1><section class="main-content">
+      <p><img src="https://ylrpwq.coding.io/wp-content/uploads/2020/01/工作室logo.png" alt="工作室LOGO" title="工作室LOGO"></p>
+<h2 id="每月工资">每月工资</h1>
+<hr>
+<p><a href="https://dzr.lengku.cf/" target="_blank" rel="noopener" data-jzz-gui-player="true">博客</a>
+<a href="https://bbs.lengku.cf/" target="_blank" rel="noopener" data-jzz-gui-player="true">论坛</a>
+<a href="http://douzhier.sxl.cn/" target="_blank" rel="noopener" data-jzz-gui-player="true">网站</a></p>
+
+<h3 id="十二月份">十二月份</h2>
+<hr>
+
+
+<table>
+  <thead>
+    <tr>
+      <th>成员数量</th>
+      <th style="text-align: center">投稿作品总数</th>
+      <th style="text-align: right">成员总工资</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>14</td>
+      <td style="text-align: center">20</td>
+      <td style="text-align: right">1000</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>成员</th>
+      <th style="text-align: center">职位</th>
+      <th style="text-align: right">投稿作品数</th>
+      <th style="text-align: right">工资</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ye土土</td>
+      <td style="text-align: center">源码程序员+室长</td>
+      <td style="text-align: right">3</td>
+      <td style="text-align: right">150</td>
+    </tr>
+    <tr>
+      <td>眼镜哥王</td>
+      <td style="text-align: center">源码程序员+副室长</td>
+      <td style="text-align: right">2</td>
+      <td style="text-align: right">100</td>
+    </tr>
+    <tr>
+      <td>NDFS</td>
+      <td style="text-align: center">十二月份已离开工作室</td>
+      <td style="text-align: right">1</td>
+      <td style="text-align: right">50</td>
+    </tr>
+    <tr>
+      <td>super游侠</td>
+      <td style="text-align: center">源码程序员</td>
+      <td style="text-align: right">1</td>
+      <td style="text-align: right">50</td>
+    </tr>
+    <tr>
+      <td>豆汁儿spasp</td>
+      <td style="text-align: center">源码程序员</td>
+      <td style="text-align: right">2</td>
+      <td style="text-align: right">100</td>
+    </tr>
+    <tr>
+      <td>浆糊大侠</td>
+      <td style="text-align: center">源码程序员</td>
+      <td style="text-align: right">3</td>
+      <td style="text-align: right">150</td>
+    </tr>
+    <tr>
+      <td>hz</td>
+      <td style="text-align: center">源码程序员</td>
+      <td style="text-align: right">1</td>
+      <td style="text-align: right">50</td>
+    </tr>
+    <tr>
+      <td>林震宇的流星猫YZUk</td>
+      <td style="text-align: center">源码程序员</td>
+      <td style="text-align: right">7</td>
+      <td style="text-align: right">350</td>
+    </tr>
+    <tr>
+      <td>冷静的people</td>
+      <td style="text-align: center">源码程序员</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+    </tr>
+    <tr>
+      <td>星丸</td>
+      <td style="text-align: center">源码程序员</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+    </tr>
+    <tr>
+      <td>不叫朱棣</td>
+      <td style="text-align: center">源码程序员</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+    </tr>
+    <tr>
+      <td>漓</td>
+      <td style="text-align: center">源码程序员</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+    </tr>
+    <tr>
+      <td>子书依沫</td>
+      <td style="text-align: center">源码程序员</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+    </tr>
+    <tr>
+      <td>浅时光桎浩</td>
+      <td style="text-align: center">设计师</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">0</td>
+    </tr>
+    <tr>
+      <td>Hello World</td>
+      <td style="text-align: center">python程序员</td>
+      <td style="text-align: right">0</td>
+      <td style="text-align: right">暂无</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>如工资统计有错误，请及时联系室长</p>
+<h3 id="十月份">十月份</h2>
+<hr>
+
+
+<table>
+  <thead>
+    <tr>
+      <th>成员</th>
+      <th style="text-align: center">职位</th>
+      <th style="text-align: right">工资</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ye土土</td>
+      <td style="text-align: center">源码程序员+室长</td>
+      <td style="text-align: right">50</td>
+    </tr>
+    <tr>
+      <td>眼镜哥王</td>
+      <td style="text-align: center">源码程序员+副室长</td>
+      <td style="text-align: right">0</td>
+    </tr>
+    <tr>
+      <td>NDFS</td>
+      <td style="text-align: center">源码程序员</td>
+      <td style="text-align: right">150</td>
+    </tr>
+    <tr>
+      <td>星丸</td>
+      <td style="text-align: center">源码程序员</td>
+      <td style="text-align: right">300</td>
+    </tr>
+    <tr>
+      <td>不叫朱棣</td>
+      <td style="text-align: center">源码程序员</td>
+      <td style="text-align: right">50</td>
+    </tr>
+    <tr>
+      <td>super游侠</td>
+      <td style="text-align: center">源码程序员</td>
+      <td style="text-align: right">0</td>
+    </tr>
+    <tr>
+      <td>豆汁儿spasp</td>
+      <td style="text-align: center">源码程序员</td>
+      <td style="text-align: right">0</td>
+    </tr>
+    <tr>
+      <td>漓</td>
+      <td style="text-align: center">源码程序员</td>
+      <td style="text-align: right">0</td>
+    </tr>
+    <tr>
+      <td>子书依沫</td>
+      <td style="text-align: center">源码程序员</td>
+      <td style="text-align: right">0</td>
+    </tr>
+    <tr>
+      <td>浅时光桎浩</td>
+      <td style="text-align: center">设计师</td>
+      <td style="text-align: right">0</td>
+    </tr>
+    <tr>
+      <td>Hello World</td>
+      <td style="text-align: center">python程序员</td>
+      <td style="text-align: right">暂无</td>
+    </tr>
+    <tr>
+      <td>王一佳</td>
+      <td style="text-align: center">已退出</td>
+      <td style="text-align: right">暂无</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><a href="https://shequ.codemao.cn/community/192897/" target="_blank" rel="noopener" data-jzz-gui-player="true">工作室招人</a></p>
+## 工作室文章
+
+<p>（无）</p>
+<footer>本文章不归我管。。。</footer>
+            <!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+            <audio id="audio" loop="1" preload="auto" controls="controls"
+                data-autoplay="false">
+                <source type="audio/mpeg" src="">
+            </audio>
+            
+            <ul id="audio-list" style="display:none">
+                
+                
+                <li title='0' data-url='/statics/chengdu.mp3'></li>
+                
+                    
+            </ul>
+            
+            
+            
+            <div id="vcomments"></div>
+            
+        </div>
+        <div class="sidebar">
+            <div class="box animated fadeInRight">
+                <div class="subbox">
+                    <img src="https://res.cloudinary.com/tridiamond/image/upload/v1573019751/TriDiamond_logo_ui_xeublz.jpg" height=300 width=300></img>
+                    <p>吹神求杀</p>
+                    <span>人間讃歌は「勇気」の讃歌ッ！！　人間のすばらしさは勇気のすばらしさ！！</span>
+                    <dl>
+                        <dd><a href="https://github.com/zzxdzld" target="_blank"><span
+                                    class=" iconfont icon-github"></span></a></dd>
+                        <dd><a href="" target="_blank"><span
+                                    class=" iconfont icon-twitter"></span></a></dd>
+                        <dd><a href="" target="_blank"><span
+                                    class=" iconfont icon-stack-overflow"></span></a></dd>
+                    </dl>
+                </div>
+                <ul>
+                    <li><a href="/">2 <p>文章</p></a></li>
+                    <li><a href="/categories">0 <p>分类</p></a></li>
+                    <li><a href="/tags">2 <p>标签</p></a></li>
+                </ul>
+            </div>
+            
+            
+            
+            <div class="box sticky animated fadeInRight faster">
+                <div id="toc" class="subbox">
+                    <h4>目录</h4>
+                    <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#豆汁儿工作室公告"><span class="toc-number">1.</span> <span class="toc-text">豆汁儿工作室公告</span></a><ol class="toc-child"><li class="toc-item toc-level-2"><a class="toc-link" href="#每月工资"><span class="toc-number">1.1.</span> <span class="toc-text">每月工资
+
+博客
+论坛
+网站
+
+十二月份</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#十二月份"><span class="toc-number">1.1.1.</span> <span class="toc-text">十二月份</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#十月份"><span class="toc-number">1.1.2.</span> <span class="toc-text">十月份
+
+
+
+
+  
+    
+      成员
+      职位
+      工资
+    
+  
+  
+    
+      ye土土
+      源码程序员+室长
+      50
+    
+    
+      眼镜哥王
+      源码程序员+副室长
+      0
+    
+    
+      NDFS
+      源码程序员
+      150
+    
+    
+      星丸
+      源码程序员
+      300
+    
+    
+      不叫朱棣
+      源码程序员
+      50
+    
+    
+      super游侠
+      源码程序员
+      0
+    
+    
+      豆汁儿spasp
+      源码程序员
+      0
+    
+    
+      漓
+      源码程序员
+      0
+    
+    
+      子书依沫
+      源码程序员
+      0
+    
+    
+      浅时光桎浩
+      设计师
+      0
+    
+    
+      Hello World
+      python程序员
+      暂无
+    
+    
+      王一佳
+      已退出
+      暂无
+    
+  
+
+
+工作室招人
+## 工作室文章
+
+（无）
+本文章不归我管。。。</span></a></li></ol></li></ol></li></ol>
+                </div>
+            </div>
+            
+            
+        </div>
+    </div>
+</div>
+
+    </div>
+</div>
+    <div id="back-to-top" class="animated fadeIn faster">
+        <div class="flow"></div>
+        <span class="percentage animated fadeIn faster">0%</span>
+        <span class="iconfont icon-top02 animated fadeIn faster"></span>
+    </div>
+</body>
+<footer>
+    <p class="copyright" id="copyright">
+        &copy; 2020
+        <span class="gradient-text">
+            吹神求杀
+        </span>.
+        Powered by <a href="http://hexo.io/" title="Hexo" target="_blank" rel="noopener">Hexo</a>
+        Theme
+        <span class="gradient-text">
+            <a href="https://github.com/TriDiamond/hexo-theme-obsidian" title="Obsidian" target="_blank" rel="noopener">Obsidian</a>
+        </span>
+        <small><a href="https://github.com/TriDiamond/hexo-theme-obsidian/blob/master/CHANGELOG.md" title="v1.4.3" target="_blank" rel="noopener">v1.4.3</a></small>
+    </p>
+</footer>
+
+<script type="text/javascript" src="https://cdn.bootcss.com/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+<script>
+  MathJax.Hub.Config({
+    "HTML-CSS": {
+      preferredFont: "TeX",
+      availableFonts: ["STIX", "TeX"],
+      linebreaks: {
+        automatic: true
+      },
+      EqnChunk: (MathJax.Hub.Browser.isMobile ? 10 : 50)
+    },
+    tex2jax: {
+      inlineMath: [
+        ["$", "$"],
+        ["\\(", "\\)"]
+      ],
+      processEscapes: true,
+      ignoreClass: "tex2jax_ignore|dno",
+      skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+    },
+    TeX: {
+      noUndefined: {
+        attributes: {
+          mathcolor: "red",
+          mathbackground: "#FFEEEE",
+          mathsize: "90%"
+        }
+      },
+      Macros: {
+        href: "{}"
+      }
+    },
+    messageStyle: "none"
+  });
+</script>
+<script>
+  function initialMathJax() {
+    MathJax.Hub.Queue(function () {
+      var all = MathJax.Hub.getAllJax(),
+        i;
+      // console.log(all);
+      for (i = 0; i < all.length; i += 1) {
+        console.log(all[i].SourceElement().parentNode)
+        all[i].SourceElement().parentNode.className += ' has-jax';
+      }
+    });
+  }
+
+  function reprocessMathJax() {
+    if (typeof MathJax !== 'undefined') {
+      MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
+    }
+  }
+</script>
+
+
+
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="/js/plugin.js"></script>
+<script src="/js/obsidian.js"></script>
+<script src="/js/jquery.truncate.js"></script>
+<script src="/js/search.js"></script>
+
+
+<script src="//cdn.bootcss.com/typed.js/2.0.10/typed.min.js"></script>
+
+
+<script src="//cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script>
+
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/social-share.js/1.0.16/js/social-share.min.js"></script>
+
+
+<script src="https://cdn.bootcss.com/codemirror/5.48.4/codemirror.min.js"></script>
+
+    
+<script src="//cdn.bootcss.com/codemirror/5.48.4/mode/javascript/javascript.min.js"></script>
+
+
+    
+<script src="//cdn.bootcss.com/codemirror/5.48.4/mode/css/css.min.js"></script>
+
+
+    
+<script src="//cdn.bootcss.com/codemirror/5.48.4/mode/xml/xml.min.js"></script>
+
+
+    
+<script src="//cdn.bootcss.com/codemirror/5.48.4/mode/htmlmixed/htmlmixed.min.js"></script>
+
+
+    
+<script src="//cdn.bootcss.com/codemirror/5.48.4/mode/clike/clike.min.js"></script>
+
+
+    
+<script src="//cdn.bootcss.com/codemirror/5.48.4/mode/php/php.min.js"></script>
+
+
+    
+<script src="//cdn.bootcss.com/codemirror/5.48.4/mode/shell/shell.min.js"></script>
+
+
+    
+<script src="//cdn.bootcss.com/codemirror/5.48.4/mode/python/python.min.js"></script>
+
+
+
+
+
+
+<link rel="stylesheet" href="//cdn.bootcss.com/photoswipe/4.1.3/photoswipe.min.css">
+<link rel="stylesheet" href="//cdn.bootcss.com/photoswipe/4.1.3/default-skin/default-skin.min.css">
+
+
+<script src="//cdn.bootcss.com/photoswipe/4.1.3/photoswipe.min.js"></script>
+<script src="//cdn.bootcss.com/photoswipe/4.1.3/photoswipe-ui-default.min.js"></script>
+
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+    <!-- Background of PhotoSwipe. 
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+        <!-- Container that holds slides. 
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+            <div class="pswp__top-bar">
+                <!--  Controls are self-explanatory. Order can be changed. -->
+                <div class="pswp__counter"></div>
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+<script>
+    function initialTyped () {
+        var typedTextEl = $('.typed-text');
+        if (typedTextEl && typedTextEl.length > 0) {
+            var typed = new Typed('.typed-text', {
+                strings: ["人間讃歌は「勇気」の讃歌ッ！！　人間のすばらしさは勇気のすばらしさ！！", "人类的赞歌是勇气的赞歌，人类的伟大是勇气的伟大！！！！"],
+                typeSpeed: 90,
+                loop: true,
+                loopCount: Infinity,
+                backSpeed: 20,
+            });
+        }
+    }
+
+    if ($('.article-header') && $('.article-header').length) {
+        $(document).ready(function () {
+            initialTyped();
+        });
+    }
+</script>
+
+
+    
+<script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+
+    <script>
+
+        var valine = new Valine();
+
+        function initValine(path) {
+            if (!path) path = window.location.pathname;
+            let language = 'zh-CN';
+            if (!language) {
+                language = 'en';
+            } else {
+                language = language.toLowerCase();
+            }
+            valine.init({
+                el: '#vcomments',
+                appId: 'sPnRcu7hQPVrt9HiT3gI693s-MdYXbMMI',
+                appKey: 'eyiGceCTm344toPs4pc8vou7',
+                notify: 'false',
+                verify: 'false',
+                avatar: 'mp',
+                placeholder: '我在嘤嘤嘤~',
+                visitor: 'true',
+                path: path,
+                lang: language
+            });
+        }
+
+        $(document).ready(function () {
+            initValine();
+        });
+    </script>
+
+
+
+</html>

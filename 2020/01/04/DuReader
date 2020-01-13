@@ -1,0 +1,674 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN" class="loading">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>小度说书 2.0 正式发布 - 编程猫小站</title>
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="google" content="notranslate" />
+    <meta name="keywords" content="lengku 个人博客 技术文章 冷库 吹神求杀 WZR,"> 
+    <meta name="description" content="Accord,作品展示
+作品介绍首先，这个作品使我感到十分欣慰，我终于把它做出来了，我知道比不上那些大佬，但是我仍然想把它发出来。
+感谢土土，他是我的第一位内测用户，它还使用了小度说书制作了一系列 Kitten ,"> 
+    <meta name="author" content="吹神求杀"> 
+    <link rel="alternative" href="atom.xml" title="编程猫小站" type="application/atom+xml"> 
+    <link rel="icon" href="/img/favicon.png"> 
+    <link href="https://fonts.loli.net/css?family=Roboto+Mono|Rubik&display=swap" rel="stylesheet">
+    
+<link rel="stylesheet" href="//at.alicdn.com/t/font_1429596_nzgqgvnmkjb.css">
+
+    
+<link rel="stylesheet" href="//cdn.bootcss.com/animate.css/3.7.2/animate.min.css">
+
+    
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/social-share.js/1.0.16/css/share.min.css">
+
+    
+<link rel="stylesheet" href="//cdn.bootcss.com/codemirror/5.48.4/codemirror.min.css">
+
+    
+<link rel="stylesheet" href="//cdn.bootcss.com/codemirror/5.48.4/theme/dracula.css">
+
+    
+<link rel="stylesheet" href="/css/obsidian.css">
+
+    
+<link rel="stylesheet" href="/css/ball-atom.min.css">
+
+<meta name="generator" content="Hexo 4.2.0"></head>
+
+
+<body class="loading">
+    <div class="loader">
+        <div class="la-ball-atom la-2x">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
+    <span id="config-title" style="display:none">编程猫小站</span>
+    <div id="loader"></div>
+    <div id="single">
+    <div class="scrollbar gradient-bg-rev"></div>
+<div id="top" style="display: block;">
+    <div class="bar" style="width: 0;"></div>
+    <div class="navigation animated fadeIn fast delay-1s">
+        <img id="home-icon" class="icon-home" src="/img/favicon.png" alt="" data-url="https://bcm.lengku.cf">
+        <div id="play-icon" title="Play/Pause" class="iconfont icon-play"></div>
+        <h3 class="subtitle">小度说书 2.0 正式发布</h3>
+        <div class="social">
+            <!--        <div class="like-icon">-->
+            <!--            <a href="javascript:;" class="likeThis active"><span class="icon-like"></span><span class="count">76</span></a>-->
+            <!--        </div>-->
+            <div>
+                <div class="share">
+                    
+                        <a href="javascript:;" class="iconfont icon-share1"></a>
+                        <div class="share-component-cc" data-disabled=""></div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div class="section">
+        <div class=article-header-wrapper>
+    <div class="article-header">
+        <div class="article-cover animated fadeIn" style="
+            animation-delay: 600ms;
+            animation-duration: 1.2s;
+            background-image: 
+                radial-gradient(ellipse closest-side, rgba(0, 0, 0, 0.65), #100e17),
+                url(/img/cover.jpg);">
+        </div>
+        <div class="else">
+            <p class="animated fadeInDown">
+                
+                <a href="javascript:;"><b>「 </b>文章<b> 」</b></a>
+                
+                一月 04, 2020
+            </p>
+            <h3 class="post-title animated fadeInDown"><a href="/2020/01/04/DuReader" title="小度说书 2.0 正式发布" class="">小度说书 2.0 正式发布</a>
+            </h3>
+            
+            <p class="post-count animated fadeInDown">
+                
+                <span>
+                    <b class="iconfont icon-text2"></b> <i>文章字数</i>
+                    12k
+                </span>
+                
+                
+                <span>
+                    <b class="iconfont icon-timer__s"></b> <i>阅读约需</i>
+                    11 mins.
+                </span>
+                
+                
+                <span id="/2020/01/04/DuReader" class="leancloud_visitors" data-flag-title="小度说书 2.0 正式发布">
+                    <b class="iconfont icon-read"></b> <i>阅读次数</i>
+                    <span class="leancloud-visitors-count">1000000</span>
+                </span>
+                
+                
+            </p>
+            
+            
+            <ul class="animated fadeInDown post-tags-list" itemprop="keywords"><li class="animated fadeInDown post-tags-list-item"><a class="animated fadeInDown post-tags-list-link" href="/tags/Python/" rel="tag">Python</a></li><li class="animated fadeInDown post-tags-list-item"><a class="animated fadeInDown post-tags-list-link" href="/tags/%E4%BD%9C%E8%80%85%E4%BD%9C%E5%93%81%E5%BD%95/" rel="tag">作者作品录</a></li></ul>
+            
+        </div>
+    </div>
+</div>
+
+<div class="screen-gradient-after">
+    <div class="screen-gradient-content">
+        <div class="screen-gradient-content-inside">
+            <div class="bold-underline-links screen-gradient-sponsor">
+                <p>
+                    <span class="animated fadeIn delay-1s"></span>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="article">
+    <div class='main'>
+        <div class="content markdown animated fadeIn">
+            <h2 id="作品展示"><a href="#作品展示" class="headerlink" title="作品展示"></a>作品展示</h2><p><img src="https://codemao.lengku.cf/1578116385019.png" alt="1578116385019"></p>
+<h2 id="作品介绍"><a href="#作品介绍" class="headerlink" title="作品介绍"></a>作品介绍</h2><p>首先，这个作品使我感到十分欣慰，我终于把它做出来了，我知道比不上那些大佬，但是我仍然想把它发出来。</p>
+<p>感谢<strong>土土</strong>，他是我的第一位内测用户，它还使用了小度说书制作了一系列 Kitten 作品。</p>
+<p>感谢我先前很讨厌的百度，他的AI功能帮助了我，成功地制作出了软件的大多数功能。</p>
+<p>感谢豆汁儿工作室和乐抖工作室，我获得了许多的内测用户。</p>
+<p>话说了那么多，接下来开始认真解析操作：</p>
+<p>1.选择音源，就是那个列表框；</p>
+<p>2.导入外部文件，点一下按钮，再选择纯文本文件，或者在文本框输入文字；</p>
+<p>3.生成语音，按一下就行了；</p>
+<p>4.播放生成的语音，字面意思。</p>
+<h3 id="源代码如下："><a href="#源代码如下：" class="headerlink" title="源代码如下："></a>源代码如下：</h3><pre><code class="python">#This File&#39;s name is getToken.py
+def getToken():
+    import urllib3, json
+    http = urllib3.PoolManager()
+    r = http.request(&#39;GET&#39;, &#39;https://openapi.baidu.com/oauth/2.0/token?grant_type=client_credentials&amp;client_id=YCMSAhotdtVVKgeabGEeHI7V&amp;client_secret=yGYtfbOCHEdGO3cjuex7U8zSvPyUPIuu&#39;)
+    a = json.loads(r.data)
+    return a[&#39;access_token&#39;]</code></pre>
+<pre><code class="python">#This File&#39;s name is reader.py
+import urllib3, sys, os, json
+from urllib.parse import urlencode
+from playsound import playsound
+from PySide2.QtWidgets import *
+from ui_read import Ui_MainWindow
+import getToken
+class Read(QMainWindow,Ui_MainWindow):
+        def __init__(self):
+                super().__init__()
+                self.setupUi(self)
+                self.file = None
+                self.txt = None
+                self.voice = 0
+                self.token = getToken.getToken()
+                self.create.clicked.connect(self.generate)
+                self.play.clicked.connect(self.musicPlay)
+                self.open.clicked.connect(self.select_file)
+                self.show()
+
+        def select_file(self):
+                self.file, _ = QFileDialog.getOpenFileName(self,&#39;选择你要读取的文件&#39;,&quot;C:/&quot;,&quot;Text files (*.log *.txt)&quot;)
+                if self.file:
+                        with open(self.file) as f:
+                                self.txt = f.read()
+                self.textEdit.setText(self.txt)
+
+
+        def generate(self):
+                if self.choser.currentText():
+                        if self.choser.currentText() == &quot;度逍遥&quot;:
+                                self.voice = 3
+                        elif self.choser.currentText() == &quot;度小娇&quot;:
+                                self.voice = 5
+                        elif self.choser.currentText() == &quot;度小宇&quot;:
+                                self.voice = 1
+                        elif self.choser.currentText() == &quot;度小美&quot;:
+                                self.voice = 0
+                        elif self.choser.currentText() == &quot;度博文&quot;:
+                                self.voice = 106
+                        elif self.choser.currentText() == &quot;度小萌&quot;:
+                                self.voice = 111
+                        elif self.choser.currentText() == &quot;度小童&quot;:
+                                self.voice = 110
+                if not os.path.exists(&quot;temp&quot;):
+                        os.mkdir(&quot;temp&quot;)
+                self.txt = self.textEdit.toPlainText()
+                if self.txt:
+                        http = urllib3.PoolManager()
+                        r = http.request(&#39;POST&#39;, &quot;http://tsn.baidu.com/text2audio?lan=zh&amp;ctp=1&amp;cuid=FE-1C-79-57-C2-60&amp;tok=%s&amp;tex=%s&amp;per=%s&quot; % (self.token, self.txt, self.voice))
+                        result = r.data
+                        if not isinstance(result, dict):
+                                with open(&#39;temp/audio.mp3&#39;, &#39;wb&#39;) as f:
+                                        f.write(result)
+                                        QMessageBox.information(self,&quot;生成声音成功&quot;,&quot;生成声音成功&quot;)
+                        else:
+                                QMessageBox.warning(self,&quot;生成失败，请重试&quot;,&quot;生成失败，请重试&quot;)
+                else:
+                        QMessageBox.warning(self,&quot;请先选择文件或输入内容！&quot;,&quot;请先选择文件或输入内容！&quot;)
+        def musicPlay(self):
+                playsound(&quot;temp/audio.mp3&quot;)
+if __name__ == &#39;__main__&#39;:
+    app = QApplication(sys.argv)
+    win = Read()
+    win.show()
+    sys.exit(app.exec_())
+</code></pre>
+<pre><code class="python">#This File&#39;s name is ui_read.py
+# -*- coding: utf-8 -*-
+
+# Form implementation generated from reading ui file &#39;C:/Users/Zheng/Desktop/AI/reader/read.ui&#39;,
+# licensing of &#39;C:/Users/Zheng/Desktop/AI/reader/read.ui&#39; applies.
+#
+# Created: Sat Nov 30 19:28:13 2019
+#      by: pyside2-uic  running on PySide2 5.13.0
+#
+# WARNING! All changes made in this file will be lost!
+
+from PySide2 import QtCore, QtGui, QtWidgets
+
+class Ui_MainWindow(object):
+    def setupUi(self, MainWindow):
+        MainWindow.setObjectName(&quot;MainWindow&quot;)
+        MainWindow.resize(800, 600)
+        icon = QtGui.QIcon()
+        icon.addPixmap(QtGui.QPixmap(&quot;read.ico&quot;), QtGui.QIcon.Normal, QtGui.QIcon.Off)
+        MainWindow.setWindowIcon(icon)
+        MainWindow.setAutoFillBackground(True)
+        self.centralwidget = QtWidgets.QWidget(MainWindow)
+        self.centralwidget.setObjectName(&quot;centralwidget&quot;)
+        self.label = QtWidgets.QLabel(self.centralwidget)
+        self.label.setGeometry(QtCore.QRect(260, 10, 251, 101))
+        font = QtGui.QFont()
+        font.setFamily(&quot;等线 Light&quot;)
+        font.setPointSize(48)
+        self.label.setFont(font)
+        self.label.setObjectName(&quot;label&quot;)
+        self.verticalLayoutWidget = QtWidgets.QWidget(self.centralwidget)
+        self.verticalLayoutWidget.setGeometry(QtCore.QRect(60, 120, 704, 421))
+        self.verticalLayoutWidget.setObjectName(&quot;verticalLayoutWidget&quot;)
+        self.verticalLayout = QtWidgets.QVBoxLayout(self.verticalLayoutWidget)
+        self.verticalLayout.setContentsMargins(0, 0, 0, 0)
+        self.verticalLayout.setObjectName(&quot;verticalLayout&quot;)
+        self.textEdit = QtWidgets.QTextEdit(self.verticalLayoutWidget)
+        font = QtGui.QFont()
+        font.setFamily(&quot;黑体&quot;)
+        self.textEdit.setFont(font)
+        self.textEdit.setObjectName(&quot;textEdit&quot;)
+        self.verticalLayout.addWidget(self.textEdit)
+        self.horizontalLayout = QtWidgets.QHBoxLayout()
+        self.horizontalLayout.setObjectName(&quot;horizontalLayout&quot;)
+        self.choser = QtWidgets.QComboBox(self.verticalLayoutWidget)
+        font = QtGui.QFont()
+        font.setFamily(&quot;等线 Light&quot;)
+        font.setPointSize(22)
+        self.choser.setFont(font)
+        self.choser.setObjectName(&quot;choser&quot;)
+        self.choser.addItem(&quot;&quot;)
+        self.choser.addItem(&quot;&quot;)
+        self.choser.addItem(&quot;&quot;)
+        self.choser.addItem(&quot;&quot;)
+        self.choser.addItem(&quot;&quot;)
+        self.choser.addItem(&quot;&quot;)
+        self.choser.addItem(&quot;&quot;)
+        self.horizontalLayout.addWidget(self.choser)
+        self.open = QtWidgets.QPushButton(self.verticalLayoutWidget)
+        font = QtGui.QFont()
+        font.setFamily(&quot;等线 Light&quot;)
+        font.setPointSize(22)
+        self.open.setFont(font)
+        self.open.setObjectName(&quot;open&quot;)
+        self.horizontalLayout.addWidget(self.open)
+        self.create = QtWidgets.QPushButton(self.verticalLayoutWidget)
+        font = QtGui.QFont()
+        font.setFamily(&quot;等线 Light&quot;)
+        font.setPointSize(22)
+        self.create.setFont(font)
+        self.create.setObjectName(&quot;create&quot;)
+        self.horizontalLayout.addWidget(self.create)
+        self.play = QtWidgets.QPushButton(self.verticalLayoutWidget)
+        font = QtGui.QFont()
+        font.setFamily(&quot;等线 Light&quot;)
+        font.setPointSize(22)
+        self.play.setFont(font)
+        self.play.setObjectName(&quot;play&quot;)
+        self.horizontalLayout.addWidget(self.play)
+        self.verticalLayout.addLayout(self.horizontalLayout)
+        MainWindow.setCentralWidget(self.centralwidget)
+        self.menubar = QtWidgets.QMenuBar(MainWindow)
+        self.menubar.setGeometry(QtCore.QRect(0, 0, 800, 23))
+        self.menubar.setObjectName(&quot;menubar&quot;)
+        self.menu = QtWidgets.QMenu(self.menubar)
+        self.menu.setObjectName(&quot;menu&quot;)
+        self.menu_2 = QtWidgets.QMenu(self.menubar)
+        self.menu_2.setObjectName(&quot;menu_2&quot;)
+        MainWindow.setMenuBar(self.menubar)
+        self.statusbar = QtWidgets.QStatusBar(MainWindow)
+        self.statusbar.setObjectName(&quot;statusbar&quot;)
+        MainWindow.setStatusBar(self.statusbar)
+        self.actionOpen = QtWidgets.QAction(MainWindow)
+        self.actionOpen.setObjectName(&quot;actionOpen&quot;)
+        self.actionweb = QtWidgets.QAction(MainWindow)
+        self.actionweb.setObjectName(&quot;actionweb&quot;)
+        self.menu.addAction(self.actionOpen)
+        self.menu_2.addAction(self.actionweb)
+        self.menubar.addAction(self.menu.menuAction())
+        self.menubar.addAction(self.menu_2.menuAction())
+
+        self.retranslateUi(MainWindow)
+        QtCore.QMetaObject.connectSlotsByName(MainWindow)
+
+    def retranslateUi(self, MainWindow):
+        MainWindow.setWindowTitle(QtWidgets.QApplication.translate(&quot;MainWindow&quot;, &quot;小度说书&quot;, None, -1))
+        self.label.setText(QtWidgets.QApplication.translate(&quot;MainWindow&quot;, &quot;小度说书&quot;, None, -1))
+        self.textEdit.setPlaceholderText(QtWidgets.QApplication.translate(&quot;MainWindow&quot;, &quot;请键入……&quot;, None, -1))
+        self.choser.setItemText(0, QtWidgets.QApplication.translate(&quot;MainWindow&quot;, &quot;度逍遥&quot;, None, -1))
+        self.choser.setItemText(1, QtWidgets.QApplication.translate(&quot;MainWindow&quot;, &quot;度博文&quot;, None, -1))
+        self.choser.setItemText(2, QtWidgets.QApplication.translate(&quot;MainWindow&quot;, &quot;度小童&quot;, None, -1))
+        self.choser.setItemText(3, QtWidgets.QApplication.translate(&quot;MainWindow&quot;, &quot;度丫丫&quot;, None, -1))
+        self.choser.setItemText(4, QtWidgets.QApplication.translate(&quot;MainWindow&quot;, &quot;度小美&quot;, None, -1))
+        self.choser.setItemText(5, QtWidgets.QApplication.translate(&quot;MainWindow&quot;, &quot;度小宇&quot;, None, -1))
+        self.choser.setItemText(6, QtWidgets.QApplication.translate(&quot;MainWindow&quot;, &quot;度小萌&quot;, None, -1))
+        self.open.setText(QtWidgets.QApplication.translate(&quot;MainWindow&quot;, &quot;导入文本文件&quot;, None, -1))
+        self.create.setText(QtWidgets.QApplication.translate(&quot;MainWindow&quot;, &quot;生成语音&quot;, None, -1))
+        self.play.setText(QtWidgets.QApplication.translate(&quot;MainWindow&quot;, &quot;播放生成的语音&quot;, None, -1))
+        self.menu.setTitle(QtWidgets.QApplication.translate(&quot;MainWindow&quot;, &quot;文件&quot;, None, -1))
+        self.menu_2.setTitle(QtWidgets.QApplication.translate(&quot;MainWindow&quot;, &quot;关于&quot;, None, -1))
+        self.actionOpen.setText(QtWidgets.QApplication.translate(&quot;MainWindow&quot;, &quot;打开&quot;, None, -1))
+        self.actionweb.setText(QtWidgets.QApplication.translate(&quot;MainWindow&quot;, &quot;作者网站&quot;, None, -1))
+
+</code></pre>
+<h2 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h2><h3 id="0-99-Beta"><a href="#0-99-Beta" class="headerlink" title="0.99 Beta"></a>0.99 Beta</h3><ol>
+<li>增加6个声库。</li>
+<li>导入文本文件功能的bug修复。</li>
+</ol>
+<h3 id="1-0-LTS"><a href="#1-0-LTS" class="headerlink" title="1.0 LTS"></a>1.0 LTS</h3><ol>
+<li>稳定性增加</li>
+</ol>
+<h3 id="2-0-LTS"><a href="#2-0-LTS" class="headerlink" title="2.0 LTS"></a>2.0 LTS</h3><ol>
+<li>修复0.99 Beta 留存的bug，无法连接百度的黑历史</li>
+</ol>
+<p>希望大家可以留个言。。。</p>
+
+            <!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+            <audio id="audio" loop="1" preload="auto" controls="controls"
+                data-autoplay="false">
+                <source type="audio/mpeg" src="">
+            </audio>
+            
+            <ul id="audio-list" style="display:none">
+                
+                
+                <li title='0' data-url='/statics/chengdu.mp3'></li>
+                
+                    
+            </ul>
+            
+            
+            
+            <div id="vcomments"></div>
+            
+        </div>
+        <div class="sidebar">
+            <div class="box animated fadeInRight">
+                <div class="subbox">
+                    <img src="https://res.cloudinary.com/tridiamond/image/upload/v1573019751/TriDiamond_logo_ui_xeublz.jpg" height=300 width=300></img>
+                    <p>吹神求杀</p>
+                    <span>人間讃歌は「勇気」の讃歌ッ！！　人間のすばらしさは勇気のすばらしさ！！</span>
+                    <dl>
+                        <dd><a href="https://github.com/zzxdzld" target="_blank"><span
+                                    class=" iconfont icon-github"></span></a></dd>
+                        <dd><a href="" target="_blank"><span
+                                    class=" iconfont icon-twitter"></span></a></dd>
+                        <dd><a href="" target="_blank"><span
+                                    class=" iconfont icon-stack-overflow"></span></a></dd>
+                    </dl>
+                </div>
+                <ul>
+                    <li><a href="/">2 <p>文章</p></a></li>
+                    <li><a href="/categories">0 <p>分类</p></a></li>
+                    <li><a href="/tags">2 <p>标签</p></a></li>
+                </ul>
+            </div>
+            
+            
+            
+            <div class="box sticky animated fadeInRight faster">
+                <div id="toc" class="subbox">
+                    <h4>目录</h4>
+                    <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#作品展示"><span class="toc-number">1.</span> <span class="toc-text">作品展示</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#作品介绍"><span class="toc-number">2.</span> <span class="toc-text">作品介绍</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#源代码如下："><span class="toc-number">2.1.</span> <span class="toc-text">源代码如下：</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#更新内容"><span class="toc-number">3.</span> <span class="toc-text">更新内容</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#0-99-Beta"><span class="toc-number">3.1.</span> <span class="toc-text">0.99 Beta</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#1-0-LTS"><span class="toc-number">3.2.</span> <span class="toc-text">1.0 LTS</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#2-0-LTS"><span class="toc-number">3.3.</span> <span class="toc-text">2.0 LTS</span></a></li></ol></li></ol>
+                </div>
+            </div>
+            
+            
+        </div>
+    </div>
+</div>
+
+    </div>
+</div>
+    <div id="back-to-top" class="animated fadeIn faster">
+        <div class="flow"></div>
+        <span class="percentage animated fadeIn faster">0%</span>
+        <span class="iconfont icon-top02 animated fadeIn faster"></span>
+    </div>
+</body>
+<footer>
+    <p class="copyright" id="copyright">
+        &copy; 2020
+        <span class="gradient-text">
+            吹神求杀
+        </span>.
+        Powered by <a href="http://hexo.io/" title="Hexo" target="_blank" rel="noopener">Hexo</a>
+        Theme
+        <span class="gradient-text">
+            <a href="https://github.com/TriDiamond/hexo-theme-obsidian" title="Obsidian" target="_blank" rel="noopener">Obsidian</a>
+        </span>
+        <small><a href="https://github.com/TriDiamond/hexo-theme-obsidian/blob/master/CHANGELOG.md" title="v1.4.3" target="_blank" rel="noopener">v1.4.3</a></small>
+    </p>
+</footer>
+
+<script type="text/javascript" src="https://cdn.bootcss.com/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+<script>
+  MathJax.Hub.Config({
+    "HTML-CSS": {
+      preferredFont: "TeX",
+      availableFonts: ["STIX", "TeX"],
+      linebreaks: {
+        automatic: true
+      },
+      EqnChunk: (MathJax.Hub.Browser.isMobile ? 10 : 50)
+    },
+    tex2jax: {
+      inlineMath: [
+        ["$", "$"],
+        ["\\(", "\\)"]
+      ],
+      processEscapes: true,
+      ignoreClass: "tex2jax_ignore|dno",
+      skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+    },
+    TeX: {
+      noUndefined: {
+        attributes: {
+          mathcolor: "red",
+          mathbackground: "#FFEEEE",
+          mathsize: "90%"
+        }
+      },
+      Macros: {
+        href: "{}"
+      }
+    },
+    messageStyle: "none"
+  });
+</script>
+<script>
+  function initialMathJax() {
+    MathJax.Hub.Queue(function () {
+      var all = MathJax.Hub.getAllJax(),
+        i;
+      // console.log(all);
+      for (i = 0; i < all.length; i += 1) {
+        console.log(all[i].SourceElement().parentNode)
+        all[i].SourceElement().parentNode.className += ' has-jax';
+      }
+    });
+  }
+
+  function reprocessMathJax() {
+    if (typeof MathJax !== 'undefined') {
+      MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
+    }
+  }
+</script>
+
+
+
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="/js/plugin.js"></script>
+<script src="/js/obsidian.js"></script>
+<script src="/js/jquery.truncate.js"></script>
+<script src="/js/search.js"></script>
+
+
+<script src="//cdn.bootcss.com/typed.js/2.0.10/typed.min.js"></script>
+
+
+<script src="//cdn.bootcss.com/blueimp-md5/2.12.0/js/md5.min.js"></script>
+
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/social-share.js/1.0.16/js/social-share.min.js"></script>
+
+
+<script src="https://cdn.bootcss.com/codemirror/5.48.4/codemirror.min.js"></script>
+
+    
+<script src="//cdn.bootcss.com/codemirror/5.48.4/mode/javascript/javascript.min.js"></script>
+
+
+    
+<script src="//cdn.bootcss.com/codemirror/5.48.4/mode/css/css.min.js"></script>
+
+
+    
+<script src="//cdn.bootcss.com/codemirror/5.48.4/mode/xml/xml.min.js"></script>
+
+
+    
+<script src="//cdn.bootcss.com/codemirror/5.48.4/mode/htmlmixed/htmlmixed.min.js"></script>
+
+
+    
+<script src="//cdn.bootcss.com/codemirror/5.48.4/mode/clike/clike.min.js"></script>
+
+
+    
+<script src="//cdn.bootcss.com/codemirror/5.48.4/mode/php/php.min.js"></script>
+
+
+    
+<script src="//cdn.bootcss.com/codemirror/5.48.4/mode/shell/shell.min.js"></script>
+
+
+    
+<script src="//cdn.bootcss.com/codemirror/5.48.4/mode/python/python.min.js"></script>
+
+
+
+
+
+
+<link rel="stylesheet" href="//cdn.bootcss.com/photoswipe/4.1.3/photoswipe.min.css">
+<link rel="stylesheet" href="//cdn.bootcss.com/photoswipe/4.1.3/default-skin/default-skin.min.css">
+
+
+<script src="//cdn.bootcss.com/photoswipe/4.1.3/photoswipe.min.js"></script>
+<script src="//cdn.bootcss.com/photoswipe/4.1.3/photoswipe-ui-default.min.js"></script>
+
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+    <!-- Background of PhotoSwipe. 
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+        <!-- Container that holds slides. 
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+            <div class="pswp__top-bar">
+                <!--  Controls are self-explanatory. Order can be changed. -->
+                <div class="pswp__counter"></div>
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+<script>
+    function initialTyped () {
+        var typedTextEl = $('.typed-text');
+        if (typedTextEl && typedTextEl.length > 0) {
+            var typed = new Typed('.typed-text', {
+                strings: ["人間讃歌は「勇気」の讃歌ッ！！　人間のすばらしさは勇気のすばらしさ！！", "人类的赞歌是勇气的赞歌，人类的伟大是勇气的伟大！！！！"],
+                typeSpeed: 90,
+                loop: true,
+                loopCount: Infinity,
+                backSpeed: 20,
+            });
+        }
+    }
+
+    if ($('.article-header') && $('.article-header').length) {
+        $(document).ready(function () {
+            initialTyped();
+        });
+    }
+</script>
+
+
+    
+<script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+
+    <script>
+
+        var valine = new Valine();
+
+        function initValine(path) {
+            if (!path) path = window.location.pathname;
+            let language = 'zh-CN';
+            if (!language) {
+                language = 'en';
+            } else {
+                language = language.toLowerCase();
+            }
+            valine.init({
+                el: '#vcomments',
+                appId: 'sPnRcu7hQPVrt9HiT3gI693s-MdYXbMMI',
+                appKey: 'eyiGceCTm344toPs4pc8vou7',
+                notify: 'false',
+                verify: 'false',
+                avatar: 'mp',
+                placeholder: '我在嘤嘤嘤~',
+                visitor: 'true',
+                path: path,
+                lang: language
+            });
+        }
+
+        $(document).ready(function () {
+            initValine();
+        });
+    </script>
+
+
+
+</html>
