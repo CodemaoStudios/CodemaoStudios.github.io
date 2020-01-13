@@ -15,7 +15,7 @@
 感谢土土，他是我的第一位内测用户，它还使用了小度说书制作了一系列 Kitten ,"> 
     <meta name="author" content="吹神求杀"> 
     <link rel="alternative" href="atom.xml" title="编程猫小站" type="application/atom+xml"> 
-    <link rel="icon" href="/img/favicon.png"> 
+    <link rel="icon" href="https://bcm.lengku.cf/zxz.png"> 
     <link href="https://fonts.loli.net/css?family=Roboto+Mono|Rubik&display=swap" rel="stylesheet">
     
 <link rel="stylesheet" href="//at.alicdn.com/t/font_1429596_nzgqgvnmkjb.css">
@@ -382,7 +382,7 @@ class Ui_MainWindow(object):
         <div class="sidebar">
             <div class="box animated fadeInRight">
                 <div class="subbox">
-                    <img src="https://res.cloudinary.com/tridiamond/image/upload/v1573019751/TriDiamond_logo_ui_xeublz.jpg" height=300 width=300></img>
+                    <img src="https://bcm.lengku.cf/zxz.png" height=300 width=300></img>
                     <p>吹神求杀</p>
                     <span>人間讃歌は「勇気」の讃歌ッ！！　人間のすばらしさは勇気のすばらしさ！！</span>
                     <dl>
